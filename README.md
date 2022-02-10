@@ -51,14 +51,30 @@ streamlit run fintech_finder.py
 
 ---
 
-## Alternative ML Model and Evaluation of Strategy Returns
+## Local Ganache Transaction output
 
-**1) Tune the training algorithm by adjusting the size of the training dataset**
+a) address balance
+![address_balance](./fintech_finder/Images/address_balance.jpg)
 
-    a) 3 months Training period
-    
-![Step_1-a_3-months](./bot_app/Resources/Images/Step_1-a_3-months.jpg)
 
+b) block history
+![blocks_history](./fintech_finder/Images/blocks_history.jpg)
+
+
+c) block history details
+![blocks_history_details](./fintech_finder/Images/blocks_history_details.jpg)
+
+
+d) Ganache logs
+![Ganache_logs](./fintech_finder/Images/Ganache_logs.jpg)
+
+
+e) transaction details
+![transaction_details](./fintech_finder/Images/transaction_details.jpg)
+
+
+f) recipients address
+![recipients_address](./fintech_finder/Images/recipients_address.jpg)
 
 
 ---
