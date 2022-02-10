@@ -77,6 +77,9 @@ f) recipients address
 ![recipients_address](./fintech_finder/Images/recipients_address.jpg)
 
 
+g)Validated Transaction Hash
+![recipients_address](./fintech_finder/Images/Validated_Transaction_Hash.jpg)
+
 ---
 
 ## Contributors
